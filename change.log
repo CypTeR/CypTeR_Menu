@@ -1,24 +1,33 @@
 Release 0.5.8 Beta
-● Added New Level Method (Applying When Changing Session)
-● Added Launcher
-● Added Give Player Op Mk2
-● Fixed Give All Weapons Self&Player&All Player
-● Fixed Crash
-● Removed Force Animation Player&All (It was patched before and was working for only local)
-● Removed Pole Dance Lobby (Same As Force Animation)
-● Removed Crash V3 (Working but sometimes crashing self)
+* Added New Level Method (Applying When Changing Session)
+* Added Launcher
+* Added Give Player Op Mk2
+* Fixed Give All Weapons Self&Player&All Player
+* Fixed Crash
+* Removed Force Animation Player&All (It was patched before and was working for only local)
+* Removed Pole Dance Lobby (Same As Force Animation)
+* Removed Crash V3 (Working but sometimes crashing self)
 
 Release 0.5.7 BETA
-● Changed 5 mil to 15 mil stealth
-● Added Crash V2
-● Added Crash V3
-● Added Justin Troll
-● Added Hijack Other Players Vehicle 
-● Menu Categorized
-● Added +200 more new vehicles
-● Removed Teleport All Locations
-● Removed Explosive Melee
-● Removed Explosive Ammo
-● Removed Rainbow Gun
-● Removed Fire Ammo
+* Changed 5 mil to 15 mil stealth
+* Added Crash V2
+* Added Crash V3
+* Added Justin Troll
+* Added Hijack Other Players Vehicle 
+* Menu Categorized
+* Added +200 more new vehicles
+* Removed Teleport All Locations
+* Removed Explosive Melee
+* Removed Explosive Ammo
+* Removed Rainbow Gun
+* Removed Fire Ammo
 (Removed because they aren't working or causing problems)
+
+Release: 0.5.6 BETA
+* Added 5 mil stealth
+* Added 2k drop
+* Added crash
+* Fixed Never wanted
+* Removed unstable Functions
+
+0.5.6 Before CLOSED BETA
