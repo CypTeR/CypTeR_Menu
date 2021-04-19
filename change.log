@@ -2,6 +2,9 @@ Release 0.5.8 Beta
 * Added New Level Method (Applying When Changing Session)
 * Added Launcher
 * Added Give Player Op Mk2
+* Added Discord Link
+* Added Weapon menu
+* Added LSC
 * Fixed Give All Weapons Self&Player&All Player
 * Fixed Crash
 * Removed Force Animation Player&All (It was patched before and was working for only local)
